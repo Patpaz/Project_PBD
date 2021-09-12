@@ -2,7 +2,7 @@
 
 ## Integrantes
 - Patrick Giordano Paredes Paz
-- Jorge Zuñiga Garay
+- Jorge Raul Zuñiga Garay
 - Christopher William Flores Rimac (Representante)
 
 ## Usuario Github y Correo UTEC
