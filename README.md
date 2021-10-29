@@ -1,15 +1,11 @@
 # ProyectoPBD
 
 ## Integrantes
-- Patrick Giordano Paredes Paz
+- Patrick Giordano Paredes Paz(Representante)
 - Jorge Raul Zuñiga Garay
-- Christopher William Flores Rimac (Representante)
-
 ## Usuario Github y Correo UTEC
 - Patpaz / patrick.paredes@utec.edu.pe
 - Hatchimba / jorge.zuniga@utec.edu.pe
-- christopherwilliamflores / christopher.flores@utec.edu.pe
-
 
 ## App Web: Tienda Virtual 
 
