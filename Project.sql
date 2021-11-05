@@ -51,18 +51,3 @@ values ('Iphone 12 pro', 367, 600, 'SMARTPHONES', 'iPhone 12 Pro comes with a 6.
 
 insert into product (name, stock, price, category, description, created_date, modified_date)
 values ('Superman Action Figure', 28, 20, 'TOYS', 'Incredibly detailed 7” scale figures based off the DC Multiverse, designed with Ultra Articulation with up to 22 moving parts for full range of posing and play. Superman is based on his look in the Justice League Movie and comes with flight stand and base', now(), now());
-
-insert into product (name, stock, price, category, description, created_date, modified_date)
-values ('Casual Suit Blazer ', 60, 60.99, 'FASHION', '100% Polyester, Button closure, Do Not Bleach. MATERIAL: Polyester & Cotton. SUIT BLAZER DESIGN: Modern fashion lightweight suit jacket blazer with notch lapel, one button closure.', now(), now());
-
-select product_id, name, stock, price, category, description, created_date, modified_date 
-from product;
-
-------------------------------------------------------------------------
-
-insert into client (client_id, name, last_name, email, password, registered_at)
-values (1, 'Jorge Antonio', 'Cullen Ramos', 'jorcu@gmail.com', 'jorge.123', now());
-
-select client_id, name, last_name, password, registered_at 
-from client;
-
